@@ -17,6 +17,7 @@ npm i -S hubot-diceware
 Add `["hubot-diceware"]` in `external-scripts.json`.
 
 ## Example
-`hubot diceware sp` -> `<random passphrases in spanish whith 6 phrases>`
-`hubot diceware en` -> `<random passphrases in english whith 6 phrases>`
-`hubot diceware sp 10` -> `<random passphrases in english whith 10 phrases>`
+
+`hubot diceware` -> `<random passphrases in english whith 6 phrases>`
+
+`hubot diceware en 10` -> `<random passphrases in english whith 10 phrases>`
