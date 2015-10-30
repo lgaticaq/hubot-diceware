@@ -1,0 +1,36 @@
+{
+  "name": "hubot-diceware",
+  "version": "1.0.0",
+  "description": "A hubot script for generate passphrases using the diceware method",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script/register"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lgaticaq/hubot-diceware.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "diceware"
+  ],
+  "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgaticaq/hubot-diceware/issues"
+  },
+  "homepage": "https://github.com/lgaticaq/hubot-diceware#readme",
+  "dependencies": {
+    "diceware-password-generator": "^1.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "coffee-script": "^1.10.0",
+    "hubot-test-helper": "^1.2.0",
+    "mocha": "^2.3.3"
+  }
+}
