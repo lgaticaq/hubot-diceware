@@ -20,5 +20,4 @@ module.exports = (robot) ->
       wordcount: res.match[4] or 6,
       format: "string",
     })
-    res.send passphrase
     robot.send {room: res.message.user.name}, "`#{passphrase}`"
