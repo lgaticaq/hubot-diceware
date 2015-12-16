@@ -18,6 +18,6 @@ Add `["hubot-diceware"]` in `external-scripts.json`.
 
 ## Example
 
-`hubot diceware` -> `<random passphrases in english whith 6 phrases>`
+`hubot diceware` -> `black gimpy gp lath blue trudge`
 
-`hubot diceware en 10` -> `<random passphrases in english whith 10 phrases>`
+`hubot diceware en 10` -> `zampar 729 antia Cabo afino fue Sra. 134 pie orden`

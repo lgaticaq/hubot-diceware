@@ -6,7 +6,6 @@
 #
 # Commands:
 #   hubot diceware -> black gimpy gp lath blue trudge
-#   hubot diceware sp -> ayuda ee alumno haya gracia mas
 #   hubot diceware sp 10 -> zampar 729 antia Cabo afino fue Sra. 134 pie orden
 #
 # Author:
@@ -15,10 +14,11 @@
 dwGen = require("diceware-generator")
 
 module.exports = (robot) ->
-  robot.respond /diceware(\s{1})?(\w{2})?(\s{1})?(\d+)?/i, (msg) ->
+  robot.respond /diceware(\s{1})?(\w{2})?(\s{1})?(\d+)?/i, (res) ->
     passphrase = dwGen({
-      language: msg.match[2] or "en",
-      wordcount: msg.match[4] or 6,
+      language: res.match[2] or "en",
+      wordcount: res.match[4] or 6,
       format: "string",
     })
-    msg.send passphrase
+    res.send passphrase
+    robot.send {room: res.message.user.name}, "`#{passphrase}`"
