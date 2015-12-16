@@ -2,17 +2,17 @@
 #   Generate a passphrases using the diceware method
 #
 # Dependencies:
-#   diceware-password-generator
+#   "diceware-generator": "^1.2.1"
 #
 # Commands:
-#   hubot diceware sp -> <random passphrases in spanish whith 6 phrases>
-#   hubot diceware en -> <random passphrases in english whith 6 phrases>
-#   hubot diceware sp 10 -> <random passphrases in english whith 10 phrases>
+#   hubot diceware -> black gimpy gp lath blue trudge
+#   hubot diceware sp -> ayuda ee alumno haya gracia mas
+#   hubot diceware sp 10 -> zampar 729 antia Cabo afino fue Sra. 134 pie orden
 #
 # Author:
 #   lgaticaq
 
-dwGen = require("diceware-password-generator")
+dwGen = require("diceware-generator")
 
 module.exports = (robot) ->
   robot.respond /diceware(\s{1})?(\w{2})?(\s{1})?(\d+)?/i, (msg) ->
