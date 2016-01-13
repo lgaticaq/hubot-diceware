@@ -2,7 +2,7 @@
 #   Generate a passphrases using the diceware method
 #
 # Dependencies:
-#   "diceware-generator": "^1.2.1"
+#   "diceware-generator": "^1.2.2"
 #
 # Commands:
 #   hubot diceware -> black gimpy gp lath blue trudge
