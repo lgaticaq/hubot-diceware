@@ -1,6 +1,6 @@
 {
   "name": "hubot-diceware",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "A hubot script for generate passphrases using the diceware method",
   "main": "index.coffee",
   "scripts": {
