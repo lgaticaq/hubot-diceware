@@ -5,8 +5,7 @@
 #   "diceware-generator": "^1.2.2"
 #
 # Commands:
-#   hubot diceware -> black gimpy gp lath blue trudge
-#   hubot diceware sp 10 -> zampar 729 antia Cabo afino fue Sra. 134 pie orden
+#   hubot diceware (en|sp) <len> -> Get a diceware
 #
 # Author:
 #   lgaticaq
