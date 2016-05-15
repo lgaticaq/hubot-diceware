@@ -2,7 +2,7 @@
 #   Generate a passphrases using the diceware method
 #
 # Dependencies:
-#   "diceware-generator": "^1.2.2"
+#   "diceware-generator": "^2.0.0"
 #
 # Commands:
 #   hubot diceware (en|sp) <len> -> Get a diceware
