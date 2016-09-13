@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/lgaticaq/hubot-diceware#readme",
   "dependencies": {
-    "diceware-generator": "^2.0.0"
+    "diceware-generator": "^3.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
