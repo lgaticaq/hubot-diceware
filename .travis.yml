@@ -1,6 +1,5 @@
 language: node_js
 node_js:
-  - "4"
   - "6"
   - "7"
 notifications:
@@ -8,3 +7,7 @@ notifications:
 after_success:
   - npm run coveralls
   - npm run codeclimate
+before_install:
+  - npm i -g yarn
+install:
+  - yarn install
