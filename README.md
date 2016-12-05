@@ -4,6 +4,8 @@
 [![npm downloads](https://img.shields.io/npm/dm/hubot-diceware.svg?style=flat-square)](https://www.npmjs.com/package/hubot-diceware)
 [![Build Status](https://img.shields.io/travis/lgaticaq/hubot-diceware.svg?style=flat-square)](https://travis-ci.org/lgaticaq/hubot-diceware)
 [![Coverage Status](https://img.shields.io/coveralls/lgaticaq/hubot-diceware/master.svg?style=flat-square)](https://coveralls.io/github/lgaticaq/hubot-diceware?branch=master)
+[![Code Climate](https://img.shields.io/codeclimate/github/lgaticaq/hubot-diceware.svg?style=flat-square)](https://codeclimate.com/github/lgaticaq/hubot-diceware)
+[![dependency Status](https://img.shields.io/david/lgaticaq/hubot-diceware.svg?style=flat-square)](https://david-dm.org/lgaticaq/hubot-diceware#info=dependencies)
 [![devDependency Status](https://img.shields.io/david/dev/lgaticaq/hubot-diceware.svg?style=flat-square)](https://david-dm.org/lgaticaq/hubot-diceware#info=devDependencies)
 
 > A hubot script for generate passphrases using the [diceware method](http://world.std.com/~reinhold/diceware.html)
