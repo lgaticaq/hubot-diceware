@@ -1,6 +1,6 @@
 {
   "name": "hubot-diceware",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "A hubot script for generate passphrases using the diceware method",
   "main": "src",
   "scripts": {
