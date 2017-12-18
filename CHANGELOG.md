@@ -1,3 +1,50 @@
+## 3.0.0 (2017-12-18)
+
+##### Chores
+
+* **deps:**
+  *  update dependency generate-changelog to v1.7.0 ([87feb8e5](https://github.com/lgaticaq/hubot-diceware/commit/87feb8e5dfa75fd97b7001ae420715093371afe0))
+  *  update dependency coffee-script to v1.12.8 ([886c1689](https://github.com/lgaticaq/hubot-diceware/commit/886c16894e645ce0878c3e0c3cf9a3b89eeff33e))
+  *  update dependency generate-changelog to v1.6.0 ([c812e671](https://github.com/lgaticaq/hubot-diceware/commit/c812e671d5c583a2701eb0a7ff39150007146f96))
+  *  update dependency coffeelint to v2.0.7 ([e64b05b0](https://github.com/lgaticaq/hubot-diceware/commit/e64b05b030c66b5bf41d96dcd123b92004e1785e))
+  *  update dependency hubot-test-helper to v1.8.1 ([10366a31](https://github.com/lgaticaq/hubot-diceware/commit/10366a316abbec4ee969908eacd4a57defbf8f4b))
+  *  update dependency hubot-test-helper to v1.8.0 ([43ac2fc1](https://github.com/lgaticaq/hubot-diceware/commit/43ac2fc1284ef8f0442e1c78d9a083e1b5f0adea))
+  *  update dependency mocha to v4.0.1 ([eabfd8ed](https://github.com/lgaticaq/hubot-diceware/commit/eabfd8edb7fa2cfc6c35061e3af243a21a5908ab))
+  *  update dependency coffeelint to v2.0.6 ([a7dccddb](https://github.com/lgaticaq/hubot-diceware/commit/a7dccddbf7b8e29b6b5a95775315e062290308cb))
+  *  update dependency coffeelint to v2.0.5 ([a151a517](https://github.com/lgaticaq/hubot-diceware/commit/a151a517007ee322c0309734c9838e30f66158fa))
+  *  update dependency coffeelint to v2.0.3 ([58e870b3](https://github.com/lgaticaq/hubot-diceware/commit/58e870b3e6ba10109024087bc1e0c1bf53f0dfbf))
+  *  update dependency mocha to v4.0.0 ([eb26c263](https://github.com/lgaticaq/hubot-diceware/commit/eb26c26324c282cafb83f5774b9173504f004da5))
+  *  update dependency coveralls to v3.0.0 ([2be16622](https://github.com/lgaticaq/hubot-diceware/commit/2be16622303aba1085034a7c34225fd0c76a157c))
+  *  update dependency generate-changelog to v1.5.0 ([cf3ff11b](https://github.com/lgaticaq/hubot-diceware/commit/cf3ff11b4fa3ec398a12bcd210d376fb96842264))
+  *  update dependency mocha to v3.5.3 ([7c412b3a](https://github.com/lgaticaq/hubot-diceware/commit/7c412b3a62c1e53b4e6dbfc08f52360bebdd410d))
+  *  update dependency mocha to v3.5.2 ([5680f951](https://github.com/lgaticaq/hubot-diceware/commit/5680f951b5db6f33a2c69941775ca5bca15ad3d9))
+* **package:**
+  *  update mocha to version 3.5.3 ([3661bbfb](https://github.com/lgaticaq/hubot-diceware/commit/3661bbfb3a19e2d16341449fdaeee5071951b64f))
+  *  update codeclimate-test-reporter to version 0.5.0 ([ffc0f91a](https://github.com/lgaticaq/hubot-diceware/commit/ffc0f91a2f0bcb46945612e5b3eb22cf19d58b8a))
+  *  update chai to version 4.0.0 ([9c493615](https://github.com/lgaticaq/hubot-diceware/commit/9c493615ceda3f712bb7682811dfea84c7becd70))
+  *  update coffee-coverage to version 2.0.0 ([173fe192](https://github.com/lgaticaq/hubot-diceware/commit/173fe1924efa6d98089cd78f5aca5145d47007f7))
+  *  Update dependencies ([1e4ecf8b](https://github.com/lgaticaq/hubot-diceware/commit/1e4ecf8bec321b3c3e3048513bdbe3ef72548b5a))
+* **travis:**  Add yarn ([fe7ebb50](https://github.com/lgaticaq/hubot-diceware/commit/fe7ebb50110a86acbab030c0067e9c715e9d405b))
+* **nvm:**  Update node version ([b2c60a15](https://github.com/lgaticaq/hubot-diceware/commit/b2c60a150e277b3e8557d3cd57dcb6324326988f))
+
+##### Documentation Changes
+
+* **README:**  Update badges ([deeeea81](https://github.com/lgaticaq/hubot-diceware/commit/deeeea816399ce0234bca300bd91dcb38eaa32c7))
+
+##### New Features
+
+* **package:**  update min node version to v8 ([e8fa1664](https://github.com/lgaticaq/hubot-diceware/commit/e8fa16644b431de0cbcfffb5968cabefa474f3c6))
+
+##### Bug Fixes
+
+* **deps:**  update dependency coffee-script to v1.12.7 ([2243aa3a](https://github.com/lgaticaq/hubot-diceware/commit/2243aa3a1827312651534f5258d0af7242e02105))
+
+##### Refactors
+
+* **deps:**
+  *  renovate pin dependencies packages ([36af551b](https://github.com/lgaticaq/hubot-diceware/commit/36af551b05ada3e4fb24cd5c056dfdf9eb20c969))
+  *  renovate pin dependencies packages ([cfa9db63](https://github.com/lgaticaq/hubot-diceware/commit/cfa9db632a0a810e14111ce42d6eebbbaca325cd))
+
 #### 2.0.1 (2016-11-13)
 
 ##### Chores
