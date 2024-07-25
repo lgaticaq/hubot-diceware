@@ -37,7 +37,7 @@
     "diceware-wordlist-sp": "1.0.0"
   },
   "devDependencies": {
-    "chai": "4.4.0",
+    "chai": "4.5.0",
     "eslint": "4.19.1",
     "eslint-config-standard": "11.0.0",
     "eslint-plugin-import": "2.29.1",
